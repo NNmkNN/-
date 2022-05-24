@@ -1,0 +1,18 @@
+body {
+    background-color: gray;
+}
+    
+.title {
+    color: white;
+} 
+
+.card {
+    width: 400px;
+    height: 800px;
+    margin: 100px;
+} 
+
+.subtitle {
+    font-size: 18px;
+
+}
